@@ -28,13 +28,14 @@ CN2|1G|1核|20G|1T|1Gbps|49.99 USD/年|DC3 CN2、DC8 ZNET 等 8 个机房，不�
 套餐名称|内存|CPU|硬盘(SSD)|流量|带宽|价格|推荐理由|购买链接
 ---|---|---|---|---|---|---|---|---
 VN01-A Price|1G|1核|10G SAN|1T|10Mbps-200Mbps|$3 USD|解锁新加坡区Netflix|[购买链接](https://my.centerhop.com/aff.php?aff=190)
-  
+
 ## 3.[racknerd](https://my.racknerd.com/aff.php?aff=2705)
 
 - 比较适合联通来回都走AS4837，电信尚可
 - 白天联通带宽可以跑满，晚上YouTube在3w-8w之间波动较大，YouTube可以稳定1080p。
 - 由于机器相对便宜，建议买之前测试一下丢包，traceroute一下testIP。
 - 截止编辑日期没有发现DC02会出现Google人机验证问题，据说9刀的机器会跳，本人使用的是12.79刀的。
+- 流量双向计费，比如标的3T实际可用1.5T
 
 套餐名称|内存|CPU|硬盘(SSD)|流量|带宽|价格|推荐理由|购买链接
 ---|---|---|---|---|---|---|---|---
@@ -44,4 +45,3 @@ VN01-A Price|1G|1核|10G SAN|1T|10Mbps-200Mbps|$3 USD|解锁新加坡区Netflix|
 [RYZEN-NVMe] 512MB Ryzen KVM VPS |0.5G|1x AMD Ryzen 3900X CPU Core|10 GB NVMe SSD Storage|2T|1Gbps|$14.18 USD|价格、流量比较适中，联通去程回程都走AS4837|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=461)
 XMas Sale - 1.5GB KVM|1.5G|1核|20 GB SSD Cached RAID-10 Storage|4.5T|1Gbps|$15.71 USD|联通去程回程都走AS4837，大流量机器|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=52)
 [6.18 SALE - 2021] 1.8 GB KVM VPS Special |1.8G|2核|18 GB Pure SSD|5T|1Gbps|$17.88 USD|联通去程回程都走AS4837，大流量机器|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=508)
-
